@@ -1,1 +1,4 @@
 # whisperJSonToTextGrid
+
+Whisper 
+WhisperX 
